@@ -1,3 +1,3 @@
 import "./styles/main.scss";
 
-import "./datePick1.js";
+import "./js/flatpickr1.js";
