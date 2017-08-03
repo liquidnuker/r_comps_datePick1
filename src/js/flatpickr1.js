@@ -3,4 +3,6 @@
 const Flatpickr = require("flatpickr");
 
 const myInput = document.querySelector(".flatpickr1");
-const fp = new Flatpickr(myInput, {});  // Flatpickr
+const fp = new Flatpickr(myInput, {
+  wrap: true
+});  // Flatpickr
