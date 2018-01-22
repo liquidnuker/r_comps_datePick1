@@ -11,8 +11,6 @@
 @import "vendor/mq"; 
 @import "layout/grid";
 
-@import "flatpickr_theme--dark";
-
 // show the active breakpoint (_mq.scss)
 // ==================================================/
 @include mq-show-breakpoints;
